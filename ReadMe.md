@@ -3,7 +3,7 @@ title: "ReadMe"
 output: html_document
 ---
 
-This is a ReadMe file for the Coursera Getting and Cleaning Data course project.
+This is a ReadMe file for the Coursera Getting and Cleaning Data course project. The purpose of the project was to test skills at cleaning a large messy data set, producing a tidy set. The data for this project relate to human activity recognition data collected using Samsung Galaxy SII phones.
 
 The data for the project was downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip, which contains data read from subjects' activities while using the Samsung Galaxy SII. More information about the data itself can be found at: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. Only the average values of the variables reporting mean and standard deviation of a given measurement for the training and test set data were used for this project.
 
